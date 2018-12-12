@@ -1,4 +1,7 @@
-#   **Importance of habitat quality and composition in the movement of Magellanic woodpeckers (_Campephilus magellanicus_) in a heterogeneous forest landscape**
+# Woodpeckers movement
+[![DOI](https://zenodo.org/badge/154517217.svg)](https://zenodo.org/badge/latestdoi/154517217)
+
+**Importance of habitat quality and composition in the movement of Magellanic woodpeckers (_Campephilus magellanicus_) in a heterogeneous forest landscape**
 
 The aim of the research is to analyze the time of residence of Magellanic woodpeckers and correlate it to the habitat quality and composition. The study was conducted in Navarino Island, Magallanes Region, Chile.
 
