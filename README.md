@@ -1,5 +1,5 @@
 # Woodpeckers movement
-[![DOI]](https://link.springer.com/article/10.1007%2Fs10336-021-01878-w)
+[![DOI](https://link.springer.com/badge/10.1007/s10336-021-01878-w.svg)](https://link.springer.com/article/10.1007/s10336-021-01878-w)
 
 **Importance of habitat quality and composition in the movement of Magellanic woodpeckers (_Campephilus magellanicus_) in a heterogeneous forest landscape**
 
